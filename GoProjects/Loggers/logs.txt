@@ -1,0 +1,13 @@
+INFO2023/11/07 14:57:07 main.go:25: INput array is  [-1 0 2 3]
+DEBUG2023/11/07 14:57:07 main.go:27: Current no. is -1
+ERROR2023/11/07 14:57:07 main.go:29: -1 is less than 0
+INFO2023/11/07 14:58:15 main.go:25: INput array is  [-1 0 2 3]
+DEBUG2023/11/07 14:58:15 main.go:27: Current no. is -1
+ERROR2023/11/07 14:58:15 main.go:29: -1  is less than 0
+DEBUG2023/11/07 14:58:15 main.go:27: Current no. is 0
+WARN2023/11/07 14:58:15 main.go:33: No is equal to zero
+INFO2023/11/07 14:58:15 main.go:36: 0 is even no.
+DEBUG2023/11/07 14:58:15 main.go:27: Current no. is 2
+INFO2023/11/07 14:58:15 main.go:36: 2 is even no.
+DEBUG2023/11/07 14:58:15 main.go:27: Current no. is 3
+INFO2023/11/07 14:58:15 main.go:38: 3 is odd no.

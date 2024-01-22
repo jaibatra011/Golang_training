@@ -1,0 +1,4 @@
+..\Exercise7\helperfunctions.go 
+..\Exercise7\logs.txt 
+..\Exercise7\main.go 
+..\Exercise7\playerfunctions.go 

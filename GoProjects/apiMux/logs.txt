@@ -1,0 +1,169 @@
+DEBUG 2023/11/22 12:02:58 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:02:58 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:16:47 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:16:47 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:23:10 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:23:10 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:23:26 playerfunctions.go:24: json: Unmarshal(nil *main.Player)
+DEBUG 2023/11/22 12:29:38 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:29:38 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:29:49 playerfunctions.go:24: [
+"jersey_no":18, 
+"name":"Virat Kohli", 
+"age":34, 
+"no_of_centuries":78
+]
+DEBUG 2023/11/22 12:29:49 playerfunctions.go:26: EOF
+DEBUG 2023/11/22 12:29:58 playerfunctions.go:24: [
+"jersey_no":18, 
+"name":"Virat Kohli", 
+"age":34, 
+"no_of_centuries":78
+]
+DEBUG 2023/11/22 12:29:58 playerfunctions.go:26: EOF
+DEBUG 2023/11/22 12:30:28 playerfunctions.go:24: {
+"jersey_no":18, 
+"name":"Virat Kohli", 
+"age":34, 
+"no_of_centuries":78
+}
+DEBUG 2023/11/22 12:30:28 playerfunctions.go:26: EOF
+DEBUG 2023/11/22 12:33:29 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:33:29 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:33:36 playerfunctions.go:26: <nil>
+DEBUG 2023/11/22 12:33:36 playerfunctions.go:27: Create  {18 Virat Kohli 34 78}
+DEBUG 2023/11/22 12:38:33 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:38:33 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 12:38:46 playerfunctions.go:105:  delete  {18 Virat Kohli 34 78}
+DEBUG 2023/11/22 12:39:31 playerfunctions.go:105:  delete  {0  0 0}
+ERROR 2023/11/22 12:39:31 playerfunctions.go:108: Error while adding player {0  0 0}
+DEBUG 2023/11/22 12:39:38 playerfunctions.go:105:  delete  {0  0 0}
+ERROR 2023/11/22 12:39:38 playerfunctions.go:108: Error while adding player {0  0 0}
+DEBUG 2023/11/22 12:41:14 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 12:41:14 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 13:24:51 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 13:24:51 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 13:25:07 playerfunctions.go:23: <nil>
+DEBUG 2023/11/22 13:25:07 playerfunctions.go:24: Create  {18 Virat Kohli 34 78}
+DEBUG 2023/11/22 13:30:18 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 13:30:18 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 13:30:40 playerfunctions.go:71: 18
+DEBUG 2023/11/22 13:30:40 playerfunctions.go:72: updated player  {0  0 0}
+DEBUG 2023/11/22 13:30:40 playerfunctions.go:73: player  &{18 Virat Kohli 34 78}
+DEBUG 2023/11/22 13:30:40 playerfunctions.go:85: update  {18 Virat Kohli 34 78}
+DEBUG 2023/11/22 13:31:35 playerfunctions.go:23: <nil>
+DEBUG 2023/11/22 13:31:35 playerfunctions.go:24: Create  {7 MSD 43 34}
+DEBUG 2023/11/22 13:33:51 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 13:33:52 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 13:34:23 playerfunctions.go:113:  delete  {18 Virat Kohli 34 79}
+DEBUG 2023/11/22 15:30:28 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/22 15:30:28 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/22 15:51:05 playerfunctions.go:23: <nil>
+DEBUG 2023/11/22 15:51:05 playerfunctions.go:24: Create  {7 MSD 43 34}
+DEBUG 2023/11/22 15:51:05 playerfunctions.go:23: <nil>
+DEBUG 2023/11/22 15:51:05 playerfunctions.go:24: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/22 15:51:05 playerfunctions.go:53: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:27:05 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/27 11:27:05 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/27 11:27:26 playerfunctions.go:23: <nil>
+DEBUG 2023/11/27 11:27:26 playerfunctions.go:24: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:27:26 playerfunctions.go:27: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:27:26 playerfunctions.go:23: <nil>
+DEBUG 2023/11/27 11:27:26 playerfunctions.go:24: Create  {18 Virat Kohli 34 79}
+ERROR 2023/11/27 11:27:26 playerfunctions.go:27: Error while adding player {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:53: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:72: 18
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:73: updated player  {0  0 0}
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:74: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:86: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:27:27 playerfunctions.go:53: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:23: <nil>
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:24: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:31:41 playerfunctions.go:27: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:23: <nil>
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:24: Create  {18 Virat Kohli 34 79}
+ERROR 2023/11/27 11:31:41 playerfunctions.go:27: Error while adding player {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:53: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:72: 18
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:73: updated player  {0  0 0}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:74: player  &{18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:86: update  {18 Virat Kohli 34 80}
+ERROR 2023/11/27 11:31:41 playerfunctions.go:92: Error while adding player {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:53: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:31:41 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:41:47 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/27 11:41:47 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:42:23 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:73: 18
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:42:23 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:42:42 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:73: 18
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:42:42 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:44:02 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:44:02 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:44:03 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:73: 18
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:44:03 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:44:43 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:73: 18
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:44:43 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/27 11:45:25 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:24: <nil>
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:73: 18
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/27 11:45:25 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}
+DEBUG 2023/11/28 13:18:30 helperfunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/28 13:18:30 helperfunctions.go:41: Player table created successfully
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:24: <nil>
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:25: Create  {7 MSD 43 34}
+ERROR 2023/11/28 13:22:04 playerfunctions.go:28: Error while adding player {7 MSD 43 34}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:24: <nil>
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:25: Create  {18 Virat Kohli 34 79}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 79}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:73: 18
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:74: updated player  {0  0 0}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:75: player  &{18 Virat Kohli 34 79}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:87: update  {18 Virat Kohli 34 79}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:54: FindPLayerByID  {18 Virat Kohli 34 80}
+DEBUG 2023/11/28 13:22:04 playerfunctions.go:113:  delete  {18 Virat Kohli 34 80}

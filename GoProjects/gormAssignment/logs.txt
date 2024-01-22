@@ -1,0 +1,24 @@
+DEBUG 2023/11/10 17:23:18 helperFunctions.go:35: DB Connection Established Successfully
+DEBUG 2023/11/10 17:23:18 helperFunctions.go:41: Player table created successfully
+DEBUG 2023/11/10 17:23:18 playerFunctions.go:54: 0  delete  {63 Surya Kumar Yadav 33 3}
+DEBUG 2023/11/10 17:23:18 playerFunctions.go:13: 0  add  {18 Virat Kohli 34 78}
+DEBUG 2023/11/10 17:23:18 playerFunctions.go:32: 0  update  {18 Virat Kohli 35 79}
+DEBUG 2023/11/10 17:23:19 playerFunctions.go:13: 1  add  {45 Rohit Sharma 36 45}
+INFO 2023/11/10 17:23:19 playerFunctions.go:70: {JerseyNo:18 Name:Virat Kohli Age:34 NoOfCenturies:78} Player is added! 
+DEBUG 2023/11/10 17:23:20 playerFunctions.go:32: 1  update  {45 Rohit Sharma 36 46}
+INFO 2023/11/10 17:23:20 playerFunctions.go:72: {JerseyNo:18 Name:Virat Kohli Age:35 NoOfCenturies:79} Player is updated! 
+INFO 2023/11/10 17:23:20 playerFunctions.go:70: {JerseyNo:45 Name:Rohit Sharma Age:36 NoOfCenturies:45} Player is added! 
+DEBUG 2023/11/10 17:23:20 playerFunctions.go:13: 2  add  {7 M. S. Dhoni 42 16}
+DEBUG 2023/11/10 17:23:21 playerFunctions.go:13: 3  add  {77 Shubman Gill 24 6}
+INFO 2023/11/10 17:23:21 playerFunctions.go:70: {JerseyNo:7 Name:M. S. Dhoni Age:42 NoOfCenturies:16} Player is added! 
+DEBUG 2023/11/10 17:23:22 playerFunctions.go:32: 2  update  {7 Mahendra Singh Dhoni 42 17}
+INFO 2023/11/10 17:23:22 playerFunctions.go:72: {JerseyNo:45 Name:Rohit Sharma Age:36 NoOfCenturies:46} Player is updated! 
+DEBUG 2023/11/10 17:23:22 playerFunctions.go:13: 4  add  {63 Surya Kumar Yadav 33 3}
+INFO 2023/11/10 17:23:22 playerFunctions.go:70: {JerseyNo:77 Name:Shubman Gill Age:24 NoOfCenturies:6} Player is added! 
+DEBUG 2023/11/10 17:23:23 playerFunctions.go:54: 1  delete  {31 Ruturaj Gaikwad 26 0}
+INFO 2023/11/10 17:23:23 playerFunctions.go:74: {JerseyNo:63 Name:Surya Kumar Yadav Age:33 NoOfCenturies:3} Player is deleted! 
+DEBUG 2023/11/10 17:23:23 playerFunctions.go:13: 5  add  {31 Ruturaj Gaikwad 26 0}
+INFO 2023/11/10 17:23:23 playerFunctions.go:70: {JerseyNo:63 Name:Surya Kumar Yadav Age:33 NoOfCenturies:3} Player is added! 
+INFO 2023/11/10 17:23:24 playerFunctions.go:72: {JerseyNo:7 Name:Mahendra Singh Dhoni Age:42 NoOfCenturies:17} Player is updated! 
+INFO 2023/11/10 17:23:24 playerFunctions.go:70: {JerseyNo:31 Name:Ruturaj Gaikwad Age:26 NoOfCenturies:0} Player is added! 
+INFO 2023/11/10 17:23:28 playerFunctions.go:74: {JerseyNo:31 Name:Ruturaj Gaikwad Age:26 NoOfCenturies:0} Player is deleted! 
